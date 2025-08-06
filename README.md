@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://i.gifer.com/JXA0.gif"  alt="Coding GIF"  width= "40%">
+  <img src="https://i.gifer.com/JXA0.gif"  alt="Coding GIF" height="350" width="1000" >
 </p>
 
 <p align="center">
